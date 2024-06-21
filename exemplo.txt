@@ -1,1 +1,2 @@
 Esse arquivo é um exemplo de arquivo de texto
+Que agora foi atualizado
